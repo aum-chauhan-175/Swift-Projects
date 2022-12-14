@@ -3,8 +3,8 @@
 ## Preview
 ---
 
-![Preview Light Mode](https://drive.google.com/file/d/1fudySRXTzFnrstG82e6MCK82wnLbLycF/view?usp=sharing)
+![Preview Light Mode](https://github.com/aum-chauhan-175/Swift-Projects/blob/main/Apple-Reminder-Clone/Apple-Reminder-Clone/Preview%20Content/Assets.xcassets/lightPreview.imageset/lightPreview.png)
 
 ---
 
-![Preview Dark Mode](https://drive.google.com/file/d/1RDxfYuF13pmm7i2-Ocb9hunxetI_1-BW/view?usp=sharing)
+![Preview Dark Mode](https://github.com/aum-chauhan-175/Swift-Projects/blob/main/Apple-Reminder-Clone/Apple-Reminder-Clone/Preview%20Content/Assets.xcassets/darkPreview.imageset/darkPreview.png)
